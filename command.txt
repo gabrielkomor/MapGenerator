@@ -1,0 +1,2 @@
+g++ -shared -o mapGeneratorCpp.dll mapGeneratorCpp.cpp - windows
+x86_64-w64-mingw32-g++ -shared -o mapGeneratorCpp.dll mapGeneratorCpp.cpp - linux wsl
