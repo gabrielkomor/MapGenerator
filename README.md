@@ -33,11 +33,11 @@ pip install -r .\requirements.txt
 ##### Sample map witch house
 ![Sample map witch house](./MapGenetatorImages/MapGenerator_1.jpg)
 ##### Inside cave
-![Inside cave](./MapGeneratorImages/MapGenerator_2.jpg)
+![Inside cave](./MapGenetatorImages/MapGenerator_2.jpg)
 ##### Sample map with cave entrance
-![Sample map with cave entrance](./MapGeneratorImages/MapGenerator_3.jpg)
+![Sample map with cave entrance](./MapGenetatorImages/MapGenerator_3.jpg)
 ##### Another example of map
-![Another example of map](./MapGeneratorImages/MapGenerator_4.jpg)
+![Another example of map](./MapGenetatorImages/MapGenerator_4.jpg)
 
 ## Game Controls
 
