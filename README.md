@@ -5,7 +5,7 @@ Program that generates random maps for 2d games
 * [General info](#general-info)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
-* [Screenshots](#screenschots)
+* [Screenshots](#screenshots)
 * [Game Controls](#game-controls)
 * [Project Status](#project-status)
 * [Sources](#sources)
