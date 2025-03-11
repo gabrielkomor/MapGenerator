@@ -1,5 +1,5 @@
 # MapGenerator
-Program that generates random maps for 2d games
+Graphics engine used to generate 2D maps for games with a resolution of 1920x1080 along with collisions. The project has been implemented with the ability to move the character and move between maps, each of which is unique.
 
 ## Table of Contents
 * [General info](#general-info)
