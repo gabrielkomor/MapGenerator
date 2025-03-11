@@ -51,7 +51,7 @@ pip install -r .\requirements.txt
 - **Press `Esc` key**  
 
 ## Project Status
-Project is complete. I currently have no plans to further develop the game, as I have achieved the intended learning outcomes
+Project is complete. I currently have no plans to further develop the game engine, as I have achieved the intended learning outcomes
 
 ## Sources
 The idea, graphics and the project itself are completely original, I did not use any external sources during its creation
