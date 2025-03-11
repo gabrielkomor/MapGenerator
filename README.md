@@ -31,7 +31,7 @@ pip install -r .\requirements.txt
 ## Screenshots
 ### Sample screenshots from the game:
 ##### Sample map witch house
-![Sample map witch house](./MapGeneratorImages/MapGenerator_1.jpg)
+![Sample map witch house](./MapGenetatorImages/MapGenerator_1.jpg)
 ##### Inside cave
 ![Inside cave](./MapGeneratorImages/MapGenerator_2.jpg)
 ##### Sample map with cave entrance
