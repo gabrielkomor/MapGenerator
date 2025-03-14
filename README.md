@@ -18,7 +18,7 @@ Project is created with:
 * Python version: 3.11
 * Pygame version: 2.6.1
 * NumPy version: 2.2.3
-* PyCharm Comunity Edition
+* PyCharm Community Edition
 * Gimp
 * MinGw-w64
 
