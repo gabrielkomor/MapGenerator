@@ -1,4 +1,4 @@
-from mapGenerator import *
+from pythonScripts.mapGenerator import *
 
 
 class MapChoose:

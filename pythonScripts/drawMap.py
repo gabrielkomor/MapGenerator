@@ -1,6 +1,6 @@
 from time import time
 import pygame as pg
-from settings import Settings
+from pythonScripts.settings import Settings
 
 
 class DrawMap:

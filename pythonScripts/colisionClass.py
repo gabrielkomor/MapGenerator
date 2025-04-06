@@ -1,6 +1,6 @@
 import numpy as np
 import pygame as pg
-from playerClass import Player
+from pythonScripts.playerClass import Player
 
 
 class Collision:

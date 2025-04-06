@@ -1,10 +1,10 @@
 import pygame as pg
-from colisionClass import Collision
-from drawMap import DrawMap
-from mapChooseClass import MapChoose
-from playerClass import Player
-from settings import Settings
-from changeMap import ChangeMap
+from pythonScripts.colisionClass import Collision
+from pythonScripts.drawMap import DrawMap
+from pythonScripts.mapChooseClass import MapChoose
+from pythonScripts.playerClass import Player
+from pythonScripts.settings import Settings
+from pythonScripts.changeMap import ChangeMap
 
 # pygame initialization
 pg.init()
@@ -68,8 +68,8 @@ while running:
                                          (move_screen[0], move_screen[1]), player)
 
     # a piece of code responsible for drawing collisions
-    for i in ChangeMap.map_list[ChangeMap.index_of_current_map][4][1]:
-        pg.draw.rect(screen, (255, 255, 255), i)
+    # for i in ChangeMap.map_list[ChangeMap.index_of_current_map][4][1]:
+    #     pg.draw.rect(screen, (255, 255, 255), i)
 
     # drawing blackout for cave mode
     if ChangeMap.map_list[ChangeMap.index_of_current_map][0][2]:

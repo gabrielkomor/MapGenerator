@@ -1,11 +1,11 @@
 import random
 import numpy as np
 import pygame as pg
-from drawMap import DrawMap
-from colisionClass import Collision
-from playerClass import Player
-from settings import Settings
-from mapChooseClass import MapChoose
+from pythonScripts.drawMap import DrawMap
+from pythonScripts.colisionClass import Collision
+from pythonScripts.playerClass import Player
+from pythonScripts.settings import Settings
+from pythonScripts.mapChooseClass import MapChoose
 
 
 class ChangeMap:
